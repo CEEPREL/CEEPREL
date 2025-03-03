@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ceeprel/ceeprel/issues)**
+💬 Ask me about **Node.js, React, Java... or anything [here](https://github.com/ceeprel/ceeprel/issues)**
 
 
  </div>
